@@ -3,7 +3,7 @@ def func1(x):
     return x + 1
 
 def mygreetings(name: str):
-    """some doc 2"""
+    """some doc 2. Update doc"""
     return f"Hello {name}"
 
 def myfunc1(x: float) -> float:
