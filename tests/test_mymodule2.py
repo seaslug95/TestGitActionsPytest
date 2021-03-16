@@ -6,6 +6,7 @@ import pytest
     [
         (-2, "negative"),
         (-1, "negative"),
+	(8, "ok"),
         (10000, "very big")
     ]
 )
